@@ -1,5 +1,6 @@
 import java.toto
 
 public static void main(){
-system.out.println("toto");
+ystem.out.println("toto");
 }
+new line added;
